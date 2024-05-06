@@ -1,8 +1,29 @@
-# React + Vite
+#dynamic-layout-Routing
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This is a simple app illustration that demonstrates the concept of dynamic layout Routing in react. It simply illustrates the rendering of different components based on a specific route. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+```sh
+git clone https://github.com/mathiaslawson/dynamic-layout-routing.git
+```
+
+```sh
+npm i 
+```
+
+```sh
+npm run dev
+```
+
+
+## Usage
+
+The application has three main routes:
+Click on the buttons to view the dynamic layout based on the rendered routes.
+
+1. `/auth`: This route takes you to the authentication page.
+2. `/chat`: This route takes you to the chat page.
+3. `/`: This is the landing page of the application.
