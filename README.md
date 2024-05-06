@@ -11,6 +11,10 @@ git clone https://github.com/mathiaslawson/dynamic-layout-routing.git
 ```
 
 ```sh
+cd dynamic-layout-routing
+```
+
+```sh
 npm i 
 ```
 
